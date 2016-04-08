@@ -1,0 +1,12 @@
+*.pyc
+*.dmp
+project.conf
+/static/tmp/
+\.old$
+\.log$
+\.log.*$
+\.orig$
+.idea/
+.idea
+*.e4?
+*.e6?
